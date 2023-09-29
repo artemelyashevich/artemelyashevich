@@ -16,7 +16,7 @@
 - 🍃 Spring
 - 🦏 Flask
 - 📚 Express
-- 💽 MySQL, PostreSQL, MongDB
+- 💽 MySQL, PostreSQL, MongoDB
 
 [![Gmail Badge](https://img.shields.io/badge/-elyashevich.artem06@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elyashevich.artem06@gmail.com)](mailto:elyashevich.artem06@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-artem_elyashevich-blue?style=social&logo=telegram&link=https://t.me/artem_elyashevich)](https://t.me/artem_elyashevich) <p align='left'>
