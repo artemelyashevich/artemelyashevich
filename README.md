@@ -10,7 +10,7 @@
 - ☕ Java
 - 🐍 Python
 - 💻 JavaScript, TypeScript
-- 💾 SQl
+- 💾 SQL
 
 ### Technologies 
 - 🍃 Spring
