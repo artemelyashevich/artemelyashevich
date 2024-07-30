@@ -1,17 +1,18 @@
-A skilled Full-Stack Developer with over a year of experience in startup projects and pet-project development. Actively focused on self-development and enhancing both hard and soft skills.
+A skilled Full-Stack Developer with over a year of experience in startup projects and pet-project development.
 
+### My experience:
 Developed full-stack solutions using advanced programming languages and frameworks, with proficiency in: 
 - Java Web Technologies: Spring Boot, Spring Data, Spring Security
 - JavaScript/TypeScript Ecosystem: ExpressJS, NestJS, Node.js, ReactJS, NextJS, Tailwind CSS
 - Database Management: SQL (MySQL, PostgreSQL); NoSQL (Redis, MongoDB)
 - Web Development Technologies: REST, WebSocket
 
-## About me: 
+### About me: 
 - Strong commitment to engineering excellence and delivering high-quality software.
 - Effective communicator, capable of working independently and within a team.
 - Continually pursuing modern practices and certifications in full-stack development.
 
-## Languages:
+### Languages:
 - Russian (native)
 - English (Intermediate B1)
 
