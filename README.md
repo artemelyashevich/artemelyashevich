@@ -1,13 +1,21 @@
-### Hi 👋, This is Artem Elyashevich
+A skilled Full-Stack Developer with over a year of experience in startup projects and pet-project development. Actively focused on self-development and enhancing both hard and soft skills.
 
-### Stack
-- Java, Python, JavaScript, TypeScrip, SQL
+Developed full-stack solutions using advanced programming languages and frameworks, with proficiency in: 
+- Java Web Technologies: Spring Boot, Spring Data, Spring Security
+- JavaScript/TypeScript Ecosystem: ExpressJS, NestJS, Node.js, ReactJS, NextJS, Tailwind CSS
+- Database Management: SQL (MySQL, PostgreSQL); NoSQL (Redis, MongoDB)
+- Web Development Technologies: REST, WebSocket
 
-### Technologies 
-- Spring
-- Flask, Django
-- ExpressJs, NestJs
-- MySQL, PostreSQL, MongoDB
+## About me: 
+- Strong commitment to engineering excellence and delivering high-quality software.
+- Effective communicator, capable of working independently and within a team.
+- Continually pursuing modern practices and certifications in full-stack development.
+
+## Languages:
+- Russian (native)
+- English (Intermediate B1)
+
+Eager to engage with new projects and technological challenges.
 
 [![Gmail Badge](https://img.shields.io/badge/-elyashevich.artem06@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elyashevich.artem06@gmail.com)](mailto:elyashevich.artem06@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-artem_elyashevich-blue?style=social&logo=telegram&link=https://t.me/artem_elyashevich)](https://t.me/artem_elyashevich) <p align='left'>
