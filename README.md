@@ -5,7 +5,7 @@ Developed full-stack solutions using advanced programming languages and framewor
 - Java Web Technologies: Spring Boot, Spring Data, Spring Security
 - JavaScript/TypeScript Ecosystem: ExpressJS, NestJS, Node.js, ReactJS, NextJS, Tailwind CSS
 - Database Management: SQL (MySQL, PostgreSQL); NoSQL (Redis, MongoDB)
-- Web Development Technologies: REST, WebSocket
+- Web Development Technologies: REST, WebSocket, Apache Kafka
 
 ### About me: 
 - Strong commitment to engineering excellence and delivering high-quality software.
