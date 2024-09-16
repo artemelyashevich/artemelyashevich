@@ -2,10 +2,10 @@ A skilled Full-Stack Developer with over a year of experience in startup project
 
 ### My experience:
 Developed full-stack solutions using advanced programming languages and frameworks, with proficiency in: 
-- Java Web Technologies: Spring Boot, Spring Data, Spring Security
+- Java Web Technologies: Spring Boot, Spring Data, Spring Security, Spring Cloud
 - JavaScript/TypeScript Ecosystem: ExpressJS, NestJS, Node.js, ReactJS, NextJS, Tailwind CSS
 - Database Management: SQL (MySQL, PostgreSQL); NoSQL (Redis, MongoDB)
-- Web Development Technologies: REST, WebSocket, Apache Kafka
+- Web Development Technologies: REST, WebSocket, Apache Kafka, Eureka, Microservices
 
 ### About me: 
 - Strong commitment to engineering excellence and delivering high-quality software.
