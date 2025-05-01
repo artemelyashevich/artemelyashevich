@@ -14,7 +14,7 @@ Developed full-stack solutions using advanced programming languages and framewor
 
 ### Languages:
 - Russian (native)
-- English (Intermediate B1)
+- English (B2)
 
 Eager to engage with new projects and technological challenges.
 
