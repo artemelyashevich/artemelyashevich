@@ -1,5 +1,5 @@
 ### **Backend | Fullstack Developer**  
-Experienced **Full-Stack Developer** with **1+ years** of hands-on expertise in **startup environments** and **financial technology development**. Proficient in designing, implementing, and optimizing scalable full-stack solutions using cutting-edge technologies.  
+Experienced Full-Stack Developer with 1+ years of hands-on expertise in startup environments and financial technology development. Proficient in designing, implementing, and optimizing scalable full-stack solutions using cutting-edge technologies.  
 
 ### **Technical Expertise**  
 - **Backend Development**:  
@@ -20,9 +20,9 @@ Experienced **Full-Stack Developer** with **1+ years** of hands-on expertise in 
   - **RESTful APIs**, **Microservices**, **Cloud-Native Development**  
 
 ### **Professional Strengths**  
-✔ **Engineering Excellence** – Dedicated to writing **clean, maintainable, and high-performance code**.  
-✔ **Collaborative & Independent** – Strong communicator, effective in both **team-driven** and **self-directed** environments.  
-✔ **Continuous Learner** – Actively pursuing **advanced certifications** and staying updated with **industry best practices**.  
+✔ **Engineering Excellence** – Dedicated to writing clean, maintainable, and high-performance code.  
+✔ **Collaborative & Independent** – Strong communicator, effective in both team-driven** and self-directed environments.  
+✔ **Continuous Learner** – Actively pursuing advanced certifications and staying updated with industry best practices.  
 
 ### **Languages**  
 - **Russian** (Native)  
