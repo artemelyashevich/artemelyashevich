@@ -1,4 +1,4 @@
-### **Backend Developer | Startup & FinTech Specialist**  
+### **Backend | Fullstack Developer**  
 Experienced **Full-Stack Developer** with **1+ years** of hands-on expertise in **startup environments** and **financial technology development**. Proficient in designing, implementing, and optimizing scalable full-stack solutions using cutting-edge technologies.  
 
 ### **Technical Expertise**  
