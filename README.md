@@ -1,26 +1,4 @@
-A skilled Full-Stack Developer with over a year of experience in startup projects and finance development.
-
-### My experience:
-Developed full-stack solutions using advanced programming languages and frameworks, with proficiency in: 
-- Java Web Technologies: Spring Boot, Spring Data, Spring Security, Spring Cloud
-- JavaScript/TypeScript Ecosystem: ExpressJS, NestJS, Node.js, ReactJS, NextJS, Tailwind CSS, Redux
-- Database Management: SQL (MySQL, PostgreSQL); NoSQL (Redis, MongoDB, Couchbase)
-- Web Development Technologies: REST, WebSocket, Apache Kafka, Eureka, Nats, Hazelcast, Microservices
-
-### About me: 
-- Strong commitment to engineering excellence and delivering high-quality software.
-- Effective communicator, capable of working independently and within a team.
-- Continually pursuing modern practices and certifications in full-stack development.
-
-### Languages:
-- Russian (native)
-- English (B2)
-
-Eager to engage with new projects and technological challenges.
-
----  
-
-### **Full-Stack Developer | Startup & FinTech Specialist**  
+### **Backend Developer | Startup & FinTech Specialist**  
 Experienced **Full-Stack Developer** with **1+ years** of hands-on expertise in **startup environments** and **financial technology development**. Proficient in designing, implementing, and optimizing scalable full-stack solutions using cutting-edge technologies.  
 
 ### **Technical Expertise**  
