@@ -18,8 +18,6 @@ Developed full-stack solutions using advanced programming languages and framewor
 
 Eager to engage with new projects and technological challenges.
 
-Here’s a more polished and professional version of your summary:  
-
 ---  
 
 ### **Full-Stack Developer | Startup & FinTech Specialist**  
